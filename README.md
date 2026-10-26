@@ -1,9 +1,23 @@
-# app-dev
+# My favorite series
 
-# My favorite series is **Breaking Bad**
-Breaking Bad is an American neo-Western crime drama TV series created by *Vince Gilligan*.
+### Series name: Breaking Bad
 
-## The main characters are:
+### Genre: 	
+- Crime drama
+- Thriller
+- Neo-Western
+- Black comedy
+- Tragedy
+
+### Main characters: 
 - Walter White
+- Skyler White
 - Jesse Pinkman
-but my favorite character is **Saul Goodman**.
+- Hank Schrader
+- Marie Schrader
+- Saul Goodman
+- Gustavo "Gus" Fring
+
+> My favorite character is `Saul Goodman.`
+
+
