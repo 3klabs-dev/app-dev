@@ -1,4 +1,6 @@
 # My favorite series
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/10c8c39c-0ad2-4ef1-ac2b-7d5231d58ffd" />
+
 
 ### Series name: Breaking Bad
 
@@ -19,6 +21,7 @@
 - Gustavo "Gus" Fring
 
 > My favorite character is `Saul Goodman.`
-> ![alt text](<img width="899" height="1310" alt="image" src="https://github.com/user-attachments/assets/d8bd8987-3454-40ae-b00a-7551f262e6ff" />)
+<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/6fb2eb8a-a6fc-4301-b977-1965a8566dc6" />
+
 
 
